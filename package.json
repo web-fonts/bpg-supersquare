@@ -1,0 +1,23 @@
+{
+  "name": "bpg-supersquare",
+  "version": "1.0.0",
+  "description": "BPG SuperSquare Web-Font Package",
+  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-supersquare"],
+  "main": "css/bpg-supersquare.css",
+  "homepage": "https://github.com/web-fonts/bpg-supersquare",
+  "author": "Lado Lomidze <lado.lomidze@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-fonts/bpg-supersquare.git"
+  },
+  "licenses": [
+    {
+      "type": "CC-BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+   }
+  ]
+}
